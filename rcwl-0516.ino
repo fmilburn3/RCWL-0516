@@ -12,6 +12,9 @@
  * CDS            Not connected
  * 
  * Tested on MSP430F5529P LaunchPad using Energia V18
+ *
+ * The module outputs 3V3 on the out pin. It will work, at least some
+ * of the time, with 3V3 as VIN.
  * 
  * Released into the public domain
  * F. Milburn     June 2017
